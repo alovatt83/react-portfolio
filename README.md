@@ -1,4 +1,4 @@
-<h1 align="center">React JS Portfolio App</h1>
+<h1 align="center">React - Portfolio App</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
